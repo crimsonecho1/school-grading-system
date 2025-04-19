@@ -74,7 +74,7 @@ function App() {
     <div className="App">
       <header className="header">
         <div className='logo'><img src={logo} alt='no-picture'></img></div>
-        <div className='title'><h1>Title School</h1></div>
+        <div className='title'><h1>New Generation international schools</h1></div>
       </header>
       <hr />
       <div className='upload-file-body'>
